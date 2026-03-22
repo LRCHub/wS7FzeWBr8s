@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Make debut! (2021 Remastered Version)",
+  "base_artist": "スピカ、スペシャルウィーク (CV. 和氣あず未)、サイレンススズカ (CV. 高野麻里佳)、トウカイテイオー (CV. Machico)、ウオッカ (CV. 大橋彩香)、ダイワスカーレット (CV. 木村千咲)、ゴールドシップ (CV. 上田 瞳)、メジロマックイーン (CV. 大西沙織)",
+  "createdAt": "2026-03-22T09:53:15.258863Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Make debut!",
+      "artist": "スピカ [スペシャルウィーク (CV. 和氣あず未)、サイレンススズカ (CV. 高野麻里佳)、トウカイテイオー (CV. Machico)、ウオッカ (CV. 大橋彩香)、ダイワスカーレット (CV. 木村千咲)、ゴールドシップ (CV. 上田 瞳)、メジロマックイーン (CV. 大西沙織)]",
+      "has_synced": true,
+      "path": "select/01_Make_debut!_スピカ_[スペシャルウィーク_(CV._和氣あず未)、サイレンススズカ_(CV._高野麻里佳)、トウカイテイオー_(CV._Machico)、ウオッカ_(CV..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Make debut!",
+      "artist": "スピカ",
+      "has_synced": false,
+      "path": "select/02_Make_debut!_スピカ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Make debut!",
+      "artist": "スピカ(スペシャルウィーク(CV.和氣あず未)、サイレンススズカ(CV.高野麻里佳)、トウカイテイオー(CV.Machico)、ウオッカ(CV.大橋彩香)、ダイワスカーレット(CV.木村千咲)、ゴールドシップ(CV.上田瞳)、メジロマックイーン(CV.大西沙織))",
+      "has_synced": true,
+      "path": "select/03_Make_debut!_スピカ(スペシャルウィーク(CV.和氣あず未)、サイレンススズカ(CV.高野麻里佳)、トウカイテイオー(CV.Machico)、ウオッカ(CV.大橋彩香)、ダイ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Make debut!",
+      "artist": "スピカ",
+      "has_synced": true,
+      "path": "select/04_Make_debut!_スピカ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Make debut!",
+      "artist": "スピカ (和氣あず未, 高野麻里佳, Machico, 大橋彩香, 木村千咲, 上田瞳, 大西沙織)",
+      "has_synced": true,
+      "path": "select/05_Make_debut!_スピカ_(和氣あず未,_高野麻里佳,_Machico,_大橋彩香,_木村千咲,_上田瞳,_大西沙織).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Make debut! (Off Vocal)",
+      "artist": "スピカ (和氣あず未, 高野麻里佳, Machico, 大橋彩香, 木村千咲, 上田瞳, 大西沙織)",
+      "has_synced": true,
+      "path": "select/06_Make_debut!_(Off_Vocal)_スピカ_(和氣あず未,_高野麻里佳,_Machico,_大橋彩香,_木村千咲,_上田瞳,_大西沙織).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Make debut! (Off Vocal) - 2021 Remastered Version",
+      "artist": "スピカ",
+      "has_synced": true,
+      "path": "select/07_Make_debut!_(Off_Vocal)_-_2021_Remastered_Version_スピカ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Make debut! (Off Vocal) (2021 Remastered Version)",
+      "artist": "スピカ [スペシャルウィーク (CV. 和氣あず未)",
+      "has_synced": true,
+      "path": "select/08_Make_debut!_(Off_Vocal)_(2021_Remastered_Version)_スピカ_[スペシャルウィーク_(CV._和氣あず未).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Make debut!",
+      "artist": "スペシャルウィーク（CV：和氣あず未）／サイレンススズカ（CV：高野麻里佳）／トウカイテイオー（CV：Machico）／ ウオッカ（CV：大橋彩香）／ダイワスカーレット（CV：木村千咲）／ゴールドシップ（CV：上田瞳）／メジロマックイーン（CV：大⻄沙織）",
+      "has_synced": true,
+      "path": "select/09_Make_debut!_スペシャルウィーク(CV_和氣あず未)_サイレンススズカ(CV_高野麻里佳)_トウカイテイオー(CV_Machico)__ウオッカ(CV_大橋彩香)_ダイワスカ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Make debut!",
+      "artist": "スピカ [スペシャルウィーク (CV. 和氣あず未)、サイレンススズカ (CV. 高野麻里佳)、トウカイテイオー(CV. Machico)、ウオッカ(CV. 大橋彩香)、ダイワスカーレット(CV. 木村千咲)、ゴールドシップ(CV. 上田瞳)、メジロマックイーン(CV. 大西沙織)]",
+      "has_synced": true,
+      "path": "select/10_Make_debut!_スピカ_[スペシャルウィーク_(CV._和氣あず未)、サイレンススズカ_(CV._高野麻里佳)、トウカイテイオー(CV._Machico)、ウオッカ(CV._大.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Make debut! (2021 Remastered Version)",
+      "artist": "スピカ",
+      "has_synced": true,
+      "path": "select/11_Make_debut!_(2021_Remastered_Version)_スピカ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Make debut! (2021 Remastered Version)",
+      "artist": "スピカ [スペシャルウィーク (CV. 和氣あず未)",
+      "has_synced": true,
+      "path": "select/12_Make_debut!_(2021_Remastered_Version)_スピカ_[スペシャルウィーク_(CV._和氣あず未).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Make Debut! (Morisee (Awesome City Club) Remix)",
+      "artist": "Spica, Special Week (CV: Azumi Wake), Silence Suzuka (CV: Marika Takano), Tokai Teio (CV: Machico), Vodka (CV: Ayaka Ohashi), Daiwa Scarlet (CV: Chisa Kimura), Gold Ship (CV: Ueda Hitomi) & Mejiro McQueen (CV: Saori Onishi)",
+      "has_synced": true,
+      "path": "select/13_Make_Debut!_(Morisee_(Awesome_City_Club)_Remix)_Spica,_Special_Week_(CV__Azumi_Wake),_Silence_Suzuka_(CV__Marika_Takano),_Tokai_.lrc"
+    }
+  ]
+}
